@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ViewController</key>
+	<dict>
+		<key>in</key>
+		<string>ViewController did load</string>
+		<key>out</key>
+		<string>ViewController did disappear</string>
+		<key>testButtonHook:</key>
+		<string>test button click</string>
+	</dict>
+</dict>
+</plist>
